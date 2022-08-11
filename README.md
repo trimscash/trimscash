@@ -3,4 +3,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trimscash&layout=compact)
 
 [MyQiita](https://qiita.com/trimscash)
-<marquee>デフォルト</marquee>
+<red>デフォルト</red>
